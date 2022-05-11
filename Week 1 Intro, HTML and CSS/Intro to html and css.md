@@ -4,6 +4,8 @@
 
 <p align="center">HTML=“nested boxes”</p>
 
+
+
 <p align="center">CSS=“a list of descriptions”</p>
 
 <p align="center">A description in the CSS affects a box in the HTML</p>
@@ -18,14 +20,12 @@
 
 #### ID
 
-- An element can have only
-  one ID
-
+- An element can have only one ID
+  
 - `<div id="thisisanid">`
 
-- IDs must be unique in any
-  given HTML document
-
+- IDs must be unique in any given HTML document
+  
 - ~~~css
   #id {
   …
@@ -34,15 +34,13 @@
 
 #### Class
 
-- An element can have
-  multiple classes
-
+- An element can have multiple classes
+  
 - `<div class="class1
   class2 class3">`
 
-- Can use the same class
-  on multiple elements
-
+- Can use the same class on multiple elements
+  
 - ~~~css
   - .classname {
     …
