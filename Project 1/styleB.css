@@ -1,0 +1,31 @@
+/* Make body have 100% of the browser height.*/
+html, body {
+	height: 100%;
+}
+
+/*It seems that we don't need to specify a body tag here (also in styleA.css).*/
+.container {
+    display: flex;
+    font-family: Tahoma;
+    font-size: 40px;
+}
+
+.GE {
+    background: #eeeff2;
+    width: 100px;
+    height: 150px;
+    padding: 10px;
+    margin: 10px;
+    border-left: 10px dotted #D0D0FF;
+}
+
+.GE:hover {
+    background-color: yellow;
+	color: goldenrod;
+}
+
+#F {
+    position: fixed;
+	bottom: 0;
+	right: 0;
+}
