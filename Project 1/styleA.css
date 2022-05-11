@@ -1,0 +1,40 @@
+/* Make body have 100% of the browser height.*/
+html, body {
+	height: 100%;
+}
+
+body {
+    height: 100%;
+    /*Requirement for font is much more complicated.*/
+    font-family: Tahoma;
+    font-size: 40px;
+}
+
+.container {
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+
+.GE {
+    background: #dfe1e7;
+    width: 100px;
+    height: 100px;
+    border-top: 1px solid #687291;
+    text-align: center;
+}
+
+#B #D {
+    background: #eeeff2;
+}
+
+#F {
+    background: #687291;
+    border: 4px solid black;
+    /*vertical-align only works for element with valign property, hence is not suitable for tags
+    like <div>, <span>. Here we make line height same as box height to make vertical align happen.*/
+    line-height: 100px;
+    vertical-align: middle;
+}
