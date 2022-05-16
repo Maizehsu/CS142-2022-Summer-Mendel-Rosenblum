@@ -1,6 +1,8 @@
 ## Project Descriptions
 
-*Version: 2022 Summer, Links https://web.stanford.edu/class/cs142/project1.html* 
+Version: *2022 Spring*.
+
+Links: https://web.stanford.edu/class/cs142/project1.html
 
 ### Problem 1 (20 points)
 
@@ -8,13 +10,13 @@ Create a *single* HTML document that presents two different appearances, determi
 
 If the HTML file links to styleA.css then it should appear like this ("Version A"):
 
-![Problem 1 Version A](../../../GitHub/FigureBed/project1versionA.png)
+![Problem 1 Version A](https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/05/16/20220516-232612.png)
 
 If the HTML file links to styleB.css then it should appear like this ("Version B"):
 
 **Note: The D in the screenshot is highlighted to show you what space the text should occupy. Your solution should not style the D with a blue background.**
 
-![Problem 1 Version B](../../../GitHub/FigureBed/project1versionB.png)
+![Problem 1 Version B](https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/05/16/20220516-232628.png)
 
 #### Style A Specifications
 
