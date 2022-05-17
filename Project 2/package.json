@@ -17,5 +17,8 @@
   "contributors": [
     "Timothy Gu <timothygu@stanford.edu> (https://www.stanford.edu/~tigu)"
   ],
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0"
+  }
 }

@@ -1,8 +1,10 @@
+# Project 1: HTML and CSS
+
 ## Project Descriptions
 
-Version: *2022 Spring*.
+**Version**: *2022 Spring*.
 
-Links: https://web.stanford.edu/class/cs142/project1.html
+**Link**: https://web.stanford.edu/class/cs142/project1.html
 
 ### Problem 1 (20 points)
 
